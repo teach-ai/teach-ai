@@ -1,7 +1,7 @@
 ---
-sectionHeader: Introduction and Basics
+sectionHeader: Introduction
 week: 1
-dates: 9/7, 9/9
+# dates:
 homeworkRelease: 2016-09-07 12:00:00
 solutionRelease: 2016-09-17 22:00:00
 title: Introduction, Virtual Machines, & Command Line Primer
