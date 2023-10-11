@@ -2,8 +2,8 @@
 sectionHeader: Introduction
 week: 1
 # dates:
-homeworkRelease: 2016-09-07 12:00:00
-solutionRelease: 2016-09-17 22:00:00
+homeworkRelease: 2023-10-07 12:00:00
+solutionRelease: 2016-10-17 22:00:00
 title: Introduction, Virtual Machines, & Command Line Primer
 lecturer:
   - mmdarden
