@@ -17,7 +17,11 @@ layout: default
   scripting, Makefiles, compilers, debugging tools, and version control. The
   end of the course will be open to student input for interesting topics to
   cover.</p> -->
-  <p>Welcome to the exciting world of machine learning and deep learning, where curiosity fuels innovation and students become the researchers of the future! In this 10th-grade high school class, we delve deep into the realm of Artificial Intelligence (AI) and set our sights on the limitless possibilities it offers.
+  <p>Welcome to the exciting world of machine learning and deep learning, 
+    where curiosity fuels innovation and students become the researchers of
+     the future! In this 10th-grade high school class, we delve deep into 
+     the realm of Artificial Intelligence (AI) and set our sights on the 
+     limitless possibilities it offers.
   </p>
 </div>
 
@@ -27,7 +31,7 @@ layout: default
   {% comment %} Do math on unix timstamps to process in liquid {% endcomment %}
   {% assign onemonthago = 'now' | date: '%s' | minus: 2592000 %}
   {% for update in site.updates %}
-    {% if update.categories contains 'f16' %}
+    {% if update.categories contains 'f23' %}
       {% comment %} No int filter, use benign math to coerce from string {% endcomment %}
       {% assign update_date = update.date | date: '%s' | times: 1 %}
       {% if update_date > onemonthago %}
