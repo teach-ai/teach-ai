@@ -1,4 +1,4 @@
-title: Computing for Computer Scientists
+title: Artificial Intelligence Research Course (AIRC)
 email: ppannuto@umich.edu
 description: > # this means to ignore newlines until "url:"
   This 1-credit seminar is designed to teach the essentials of using a computer
@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "url:"
   remaining useful topics to cover.
 url: "https://teach-ai.github.io" # the base hostname & protocol for your site
 
-google_analytics_id: UA-70360310-1
+# google_analytics_id: UA-70360310-1
 
 timezone: America/Detroit
 
