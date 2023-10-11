@@ -2,7 +2,7 @@
 permalink: /lectures/f16/week1.html
 ---
 
-class: center, middle
+class: center, middle 
 
 # EECS 398 :: 002, 003
 ## Computing for Computer Scientists
